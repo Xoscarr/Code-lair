@@ -1,0 +1,34 @@
+.login-container {
+  justify-content: space-around;
+  position: relative;
+  margin-bottom: 8rem;
+  display: flex;
+  margin-left: 7rem;
+  margin-top: 15rem;
+  background-color: white;
+  width: 25%;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  border-radius: 5px;
+}
+.fluid-container {
+  display: flex;
+  flex-direction: row;
+}
+.card-container {
+  margin-left: 25rem;
+  margin-top: 15rem;
+  background-color: white;
+  border-radius: 5px;
+  position: relative;
+  bottom: 8rem;
+  margin-top: 15rem;
+  /* border: 1px solid black; */
+  box-shadow: -12px 12px rgb(0, 0, 0, 0.5);
+}
+body {
+  background-color: #9675dd;
+}
+.card-title {
+  font-size: 60px;
+}
